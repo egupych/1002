@@ -175,6 +175,11 @@ p a {
   transition: all 0.2s ease;
 }
 
+.logo_company {
+  width: 20vw;
+  margin: 0 auto;
+}
+
 .back_button img {
   width: 86px;
 }

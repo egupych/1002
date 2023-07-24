@@ -84,12 +84,12 @@ if (animIMGs.length > 0) {
 const numberElement1 = document.getElementById("number1");
 
 // Устанавливаем начальное значение
-let number1 = 889976;
+let number1 = 1;
 
 // Функция для анимации числа
 function animateNumber1() {
   // Если число достигло нужного значения, останавливаем анимацию
-  if (number1 >= 890000) {
+  if (number1 >= 12) {
     clearInterval(interval1);
   } else {
     // Увеличиваем значение числа на 1 и обновляем текст элемента
