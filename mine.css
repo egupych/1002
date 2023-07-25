@@ -115,7 +115,7 @@ font-weight: 400;
 }
 
 .parallax-one {overflow: hidden; display: block;
-  position: relative; width: 100%; background: linear-gradient(rgba(20, 20, 20, 0.95), rgba(20,20,20,0.95)), url(https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=100); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+  position: relative; width: 100%; background: linear-gradient(rgba(20, 20, 20, 0.95), rgba(20,20,20,0.95)), url(https://github.com/egupych/1002/blob/main/map.png?raw=true); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 
 .center {
@@ -177,7 +177,9 @@ p a {
 
 .logo_company {
   width: 20vw;
-  margin: 0 auto;
+  position: absolute;
+  left: 39%;
+  transform: translateY(-50%);
 }
 
 .back_button img {
@@ -252,7 +254,7 @@ transform: scale(1.1);
 .head {
   font-family: 'Montserrat Alternates', sans-serif;
   font-weight: 500;
-  font-size: 81px;
+  font-size: 67px;
   line-height: 100%;
 
   grid-column-start: 1;
@@ -601,6 +603,7 @@ footer {
   background-color: #212123;
   padding: 69px 137px;
   margin-bottom: 43px;
+  position: relative;
 }
 
 .title {
@@ -726,7 +729,7 @@ body {
 
 
 .parallax-one {overflow: hidden; display: block;
-  position: relative; width: 90vw; background: linear-gradient(rgba(20, 20, 20, 0.95), rgba(20,20,20,0.95)), url(https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=100); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+  position: relative; width: 90vw; background: linear-gradient(rgba(20, 20, 20, 0.95), rgba(20,20,20,0.95)), url(https://github.com/egupych/1002/blob/main/map.png?raw=true); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 
 .center {
@@ -798,7 +801,7 @@ body {
  
  
 .head {
-  font-size: 4.7vw;
+  font-size: 3.7vw;
 }
 
 .design img {
@@ -1263,7 +1266,7 @@ align-items: center;
 
 
 .parallax-one {overflow: hidden; display: block;
-  position: relative; width: 90%; background: linear-gradient(rgba(33, 33, 35, 1), rgba(33,33,35, 1)), url(https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=1); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+  position: relative; width: 90%; background: linear-gradient(rgba(33, 33, 35, 1), rgba(33,33,35, 1)), url(https://github.com/egupych/1002/blob/main/map.png?raw=true); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 
 }
