@@ -107,12 +107,12 @@ const interval1 = setInterval(animateNumber1, 300);
 const numberElement2 = document.getElementById("number2");
 
 // Устанавливаем начальное значение
-let number2 = 1990;
+let number2 = 55988;
 
 // Функция для анимации числа
 function animateNumber2() {
   // Если число достигло нужного значения, останавливаем анимацию
-  if (number2 >= 2000) {
+  if (number2 >= 56000) {
     clearInterval(interval2);
   } else {
     // Увеличиваем значение числа на 1 и обновляем текст элемента
