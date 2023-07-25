@@ -175,6 +175,10 @@ p a {
   transition: all 0.2s ease;
 }
 
+.logo_company_first {
+  width: 20vw;
+}
+
 .logo_company {
   width: 20vw;
   position: absolute;
@@ -702,7 +706,7 @@ padding: 34px;
 }
 
 .social .icon svg {
-  height: 27px;
+  height: 50px;
   fill: #f7f7f7;
 }
 
@@ -1024,7 +1028,7 @@ padding: 2vw;
 }
 
 .social .icon svg {
-  height: 1.6vw;
+  height: 3w;
 }
 
 }
@@ -1260,7 +1264,7 @@ align-items: center;
 }
 
 .social .icon svg {
-  height: 4vw;
+  height: 8vw;
   fill: #f7f7f7;
 }
 
