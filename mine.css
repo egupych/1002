@@ -1167,6 +1167,10 @@ align-items: center;
   font-size: 6vw;
 }
 
+.logo_company {
+  width: 80vw;
+}
+
 
 .logo_social {
   display: none;
